@@ -1,4 +1,4 @@
-![KakaoTalk_20240617_230013684.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/30b50e45-282f-448e-80ea-1737eee7c37c/d0993223-597d-4aef-a976-2f65859bc0e3/KakaoTalk_20240617_230013684.png)
+
 
 ## 안녕하세요. 웹/앱 풀스택 개발자 입니다.
 
