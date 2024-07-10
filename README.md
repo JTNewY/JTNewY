@@ -1,4 +1,5 @@
 
+![1](https://github.com/JTNewY/JTNewY/assets/151705894/43299b45-a789-4c5d-8a1c-b80f3b4cfe12)
 
 ## 안녕하세요. 웹/앱 풀스택 개발자 입니다.
 
