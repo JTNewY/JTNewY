@@ -1,6 +1,6 @@
-## 안녕하세요. 웹/앱 풀스택 개발자 입니다.
+## Welcome!
 
-현재 더조은아카데미에서 **MSA기반 플러터**(Dart), **리액트**(React)활용 프론트엔드, **자바**(JAVA)활용 **스프링부트**(Spring Boot) 백엔드 풀스택 웹(앱)개발 교육을 수료한 신입개발자 **정태진**입니다.
+I'm Jung Tae-jin, a new developer who has completed MSA-based flutter (Dart), React-based front-end, and JAVA-based spring boot back-end full stack web (app) development training at The Joeun Academy.
 
 ## ✏Profile
 
