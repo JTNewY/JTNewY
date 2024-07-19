@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm Jung Tae-jin, a new developer who has completed MSA-based flutter (Dart), React-based front-end, and JAVA-based spring boot back-end full stack web (app) development training at The Joeun Academy.
+I'm Tae jin Jeong, a new developer who has completed MSA-based flutter (Dart), React-based front-end, and JAVA-based spring boot back-end full stack web (app) development training at The Joeun Academy.
 
 ## ✏Profile
 
