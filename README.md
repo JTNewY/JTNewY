@@ -4,10 +4,6 @@ I'm Jung Tae-jin, a new developer who has completed MSA-based flutter (Dart), Re
 
 ## ✏Profile
 
-## 깃허브
-
-https://github.com/JTNewY
-
 ## 🛠Skills
 
 ---
@@ -18,6 +14,7 @@ https://github.com/JTNewY
 - CSS
 - JavaScript
 - React
+- Flutter
 
 **BackEnd**
 
