@@ -25,6 +25,7 @@ I'm Tae jin Jeong, a new developer who has completed MSA-based flutter (Dart), R
 - Node.js
 - MySQL
 - ORACLE
+- django
 
 **Tools**
 
